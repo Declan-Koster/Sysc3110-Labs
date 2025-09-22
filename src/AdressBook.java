@@ -21,4 +21,8 @@ public  class AdressBook {
         adressBook.removeBuddy(buddy);
     }
     //This is the edit
+
+    public void Random(){
+        return;
+    }
 }
